@@ -1,4 +1,3 @@
-# devByPedro
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cristóvão;Tenho+21+anos;Sou+do+Piauí,+Brasil;Estudo+Ciência+da+Computação+na+Estácio;Seja+bem-vindo!+🚀)](https://git.io/typing-svg)
@@ -27,7 +26,6 @@
 [![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TYPESCRIPT](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 [![TAILWIND](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/shadcn/ui-0D1117?style=for-the-badge&logo=shadcn&logoColor=white" alt="shadcn/ui" />
 
 ---
 
