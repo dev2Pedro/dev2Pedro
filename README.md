@@ -1,58 +1,75 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cristóvão;Tenho+21+anos;Sou+do+Piauí,+Brasil;Estudo+Ciência+da+Computação+na+Estácio;Seja+bem-vindo!+🚀)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroiwn&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Prudencio github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiwn&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<h1 align="center">Pedro Cristóvão do Nascimento Prudêncio</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroiwn&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  💻 Web Developer • 🎓 Computer Science 7/8 • 🇧🇷 Brazil - PI
 </p>
 
-<div align="center">  
-  <a href="https://www.instagram.com/pedroiwln/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Pedro;Hello,+my+name+is+Pedro;Seja+bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 Main Skills:
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![TYPESCRIPT](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-[![TAILWIND](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+### 🧠 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação  
+- 🧑‍💻 Apaixonado por tecnologia, interfaces e boas experiências de usuário  
+- 🌱 Atualmente focado em aprimorar minhas habilidades com **React, TypeScript e Node.js**  
+- 🚀 Em busca constante de evolução como desenvolvedor
 
 ---
 
-### 🧰 Tools & Environments:
-[![VSCODE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![GITHUB](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![FIGMA](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+### 🚀 Tech Stack
+
+#### 🧩 Principais Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nodejs" />
+</p>
+
+#### 📱 Mobile & Cross-platform
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+#### ⚙️ Ferramentas & Plataformas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,windows" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
+/>
+</p>
+
+#### 📚 Aprendendo no momento
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,git,prisma" />
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
 
 ---
 
-### 📚 Currently Learning:
-[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![GIT](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![TYPESCRIPT](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-[![NEXTJS](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-[![PRISMA](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
-
----
+### 📊 Estatísticas GitHub
 
 <div align="center">
-  <br>
-  <p><b>👀 Visitor Count</b></p>  
-  <p><img align="center" src="https://profile-counter.glitch.me/{pedroiwn}/count.svg" /></p> 
-  <br>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedroiwn&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroiwn&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedroiwn&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🌐 Redes Sociais
+
+<p align="center">
+  <a href="https://www.instagram.com/pedroiwln/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
