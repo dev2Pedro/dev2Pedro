@@ -59,7 +59,7 @@
 ### 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroiwn&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev2Pedro&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
