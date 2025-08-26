@@ -60,7 +60,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-prudêncio-5a309a237/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"
+      width="120"
+      style="border-radius: 8px;"
+    />
   </a>
 </p>
 
