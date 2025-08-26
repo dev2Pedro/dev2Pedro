@@ -51,7 +51,8 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev2Pedro&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2Pedro&layout=compact&theme=github_dark&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2Pedro&layout=compact&theme=github_dark&hide_border=true&hide=c%2B%2B,Jupyter%20Notebook" />
 </div>
 
 ---
