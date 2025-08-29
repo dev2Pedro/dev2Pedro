@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Pedro;Hello,+my+name+is+Pedro;Seja+bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Pedro;Hello,+my+name+is+Pedro;Seja+bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!+🧑‍💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Skills
 
 #### 🧩 Principais Tecnologias
 <p align="left">
