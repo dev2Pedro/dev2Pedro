@@ -57,7 +57,7 @@
 
 ---
 
-### 🌐 Você pode me encontrar aqui
+### 🌐 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-prudêncio-5a309a237/" target="_blank">
