@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Cristóvão do Nascimento Prudêncio</h1>
+<h1 align="center">Pedro Cristóvão 🧑🏻‍💻</h1>
 
 <p align="center">
   💻 Web Developer • 🎓 Computer Science 7/8 • 🇧🇷 Brazil - PI
@@ -19,31 +19,27 @@
 
 ---
 
-### 💻 Tech Skills
+### 💻 Tech Stack
 
-#### 🧩 Principais Tecnologias
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nodejs" />
-</p>
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  
 
-#### 📱 Mobile & Cross-platform
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-#### ⚙️ Ferramentas & Plataformas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,windows" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
-/>
-</p>
+#### 📱 Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-#### 📚 Aprendendo no momento
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,git,prisma" />
-    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</p>
+#### Outros
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ---
 
