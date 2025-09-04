@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Cristóvão 🧑🏻‍💻</h1>
 
 <p align="center">
-  💻 Web Developer • 🎓 Computer Science 7/8 • 🇧🇷 Brazil - PI
+  💻 Web Developer • 🎓 Computer Science 8/1 • 🇧🇷 Brazil - PI
 </p>
 
 <p align="center">
