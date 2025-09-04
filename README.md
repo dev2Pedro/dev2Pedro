@@ -15,7 +15,7 @@
 - 🎓 Estudante de Ciência da Computação  
 - 🧑‍💻 Apaixonado por tecnologia, interfaces e boas experiências de usuário  
 - 🌱 Atualmente focado em aprimorar minhas habilidades com **React, TypeScript e Node.js**  
-- 🚀 Em busca constante de evolução como desenvolvedor
+- 🚀 Sempre em busca de crescimento e desafios como desenvolvedor
 
 ---
 
