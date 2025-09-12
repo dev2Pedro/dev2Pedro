@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Cristó🧑🏻‍💻</h1>
+<h1 align="center">Pedro Cristóvã🧑🏻‍💻</h1>
 
 <p align="center">
   💻 Web Developer • 🎓 Computer Science 7/8 • 🇧🇷 Brazil - PI
