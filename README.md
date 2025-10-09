@@ -12,7 +12,7 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudant
+- 🎓 Estudante de ciê
 - 🧑‍💻 Apaixonado por tecnologia, interfaces e boas experiências de usuário  
 - 🌱 Atualmente focado em aprimorar minhas skills com **React, TypeScript e Node.js**  
 - 🚀 Sempre em busca de crescimento e novos desafios como desenvolvedor
