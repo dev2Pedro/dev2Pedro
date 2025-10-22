@@ -1,4 +1,4 @@
-<h1 align="center">P🧑🏻‍💻</h1>
+<h1 align="center">Ped🧑🏻‍💻</h1>
 
 <p align="center">
   💻 Fullstack Developer • 🎓 Computer Science 7/8 • 🇧🇷 Brazil - PI
