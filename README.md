@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Cris🧑🏻‍💻</h1>
+<h1 align="center">Pedro Cristó🧑🏻‍💻</h1>
 
 <p align="center">
   💻 Fullstack Developer • 🎓 Computer Science 8/9 • 🇧🇷 Brazil - PI
